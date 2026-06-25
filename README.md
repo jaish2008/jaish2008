@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Jaish 👋
 
-<!--
-**jaish2008/jaish2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Science Diploma Student
+- Currently in 5th Semester
+- Learning Python, SQL and GitHub
+- Interested in Software Development and IoT
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Git & GitHub
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Data Structures & Algorithms
+- Database Management
+- IoT Projects
+
+## Projects
+- Student Management System (In Progress)
+- Portfolio Website (Planned)
+
+## Goals for 2026
+- Complete Diploma with 8+ CGPA
+- Build 3+ Projects
+- Get an Internship
+- Pursue B.Tech through LEET
